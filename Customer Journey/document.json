@@ -14,6 +14,7 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "A42DB3F6-073C-4D6A-99AA-1D6EA3809692",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
@@ -25,10 +26,10 @@
     ]
   },
   "meta": {
-    "appVersion": "44.1",
-    "build": 41455,
-    "commit": "10b2b021ddaac63eb3f52ce0b42edfb625ca194b",
-    "version": 91
+    "appVersion": "48.2",
+    "build": 47327,
+    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
+    "version": 97
   },
   "pages": [
     "Page 1",
@@ -37,6 +38,9 @@
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.protowire.sketch.prototype": {
+      "formatVersion": 6
     }
   }
 }
